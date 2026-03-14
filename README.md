@@ -10,15 +10,11 @@
 ________________________________________________________________________________________________________________________________________________________
 
 # 📊 GitHub Stats
-
 <p>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rubenslourenco&show_icons=true&theme=tokyonight"/>
 </p>
 ________________________________________________________________________________________________________________________________________________________
-
-
 # 🚀 Tecnologias que utilizo
-
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -32,10 +28,6 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </p>
-
 ________________________________________________________________________________________________________________________________________________________
-
-
 # 🔥 GitHub Streak
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubenslourenco&theme=tokyonight" />
