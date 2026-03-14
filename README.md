@@ -13,7 +13,9 @@ ________________________________________________________________________________
 <p>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rubenslourenco&show_icons=true&theme=tokyonight"/>
 </p>
-________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
+
+
 # 🚀 Tecnologias que utilizo
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
