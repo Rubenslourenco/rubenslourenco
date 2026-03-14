@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <p>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rubenslourenco&show_icons=true&theme=tokyonight"/>
 </p>
-___________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
 
 
 # 🚀 Tecnologias que utilizo
@@ -30,6 +30,7 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </p>
-______________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
+
 # 🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubenslourenco&theme=tokyonight" />
