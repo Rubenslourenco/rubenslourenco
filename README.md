@@ -30,7 +30,7 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </p>
-_________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________
 
-# 🔥 GitHub Streak
+#🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubenslourenco&theme=tokyonight" />
