@@ -1,19 +1,14 @@
-### HI my friends Devs👋,My name Felipe Sousa and develop for backend Java.
- 😊 I have been a technology student since 2016 and graduated from UNINOVE college for the systems analysis and development course completed in 2020 and I am currently in the bootcamp at DevSuperior where I intend to complete my dream of becoming a fullstack JAVA developer. 
- 
- 🌱 I’m currently learning and work a framework Spring of Java and ReactJS.
+Olá Devs 👋
+
+Meu nome é Rubens Alves e sou Desenvolvedor Fullstack, atuando no desenvolvimento de aplicações web modernas utilizando tecnologias como React e Next.js.
+
+💻 Tenho experiência no desenvolvimento de interfaces e também na integração com APIs e serviços de back-end, contribuindo para a construção de aplicações completas e escaláveis.
+
+🚀 Busco sempre evoluir minhas habilidades, aplicando boas práticas de desenvolvimento e criando soluções eficientes e bem estruturadas.
+
+🌱 Atualmente estou aprofundando meus conhecimentos em arquitetura de aplicações web, cloud e integração de inteligência artificial em sistemas modernos.
 ______________________________________________________________________________________________________________________________________________________________________
  
- ### My projects.
- 
- <img align="right" float="right" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
-
- 1) <a href="https://github.com/FelipeSdsilva/dscatalog">DsCatalog</a> 
- 2) <a href="https://github.com/FelipeSdsilva/dsmovie">DsMovie</a>
- 3) <a href="https://github.com/FelipeSdsilva/ChessMatchInJava">Chess Match</a>
- 4) <a href="https://github.com/FelipeSdsilva/projeto-sds3">Dsvendas</a>
- 
-_____________________________________________________________________________________________________________________________________________________________
 
  ### My Skills
 
