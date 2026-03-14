@@ -7,13 +7,13 @@
 🌱 Atualmente estou aprofundando meus conhecimentos em **arquitetura de aplicações web, cloud e inteligência artificial aplicada a sistemas modernos**.
 
 🎓 Sou formado em **Ciências Biológicas**, mas encontrei na tecnologia uma grande paixão e venho construindo minha carreira como desenvolvedor.
-________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
 
 # 📊 GitHub Stats
 <p>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rubenslourenco&show_icons=true&theme=tokyonight"/>
 </p>
-______________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
 
 
 # 🚀 Tecnologias que utilizo
@@ -30,6 +30,6 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </p>
-________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 # 🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubenslourenco&theme=tokyonight" />
