@@ -1,21 +1,26 @@
-Olá Devs 👋
+# 👋 Olá, eu sou Rubens Alves
 
-Meu nome é Rubens Alves e sou Desenvolvedor Fullstack, atuando no desenvolvimento de aplicações web modernas utilizando tecnologias como React e Next.js.
+💻 Desenvolvedor **Fullstack** focado em desenvolvimento de aplicações web modernas.
 
-💻 Tenho experiência no desenvolvimento de interfaces e também na integração com APIs e serviços de back-end, contribuindo para a construção de aplicações completas e escaláveis.
+🚀 Trabalho com tecnologias como **React, Next.js, Node.js e bancos de dados SQL**, criando aplicações escaláveis e integradas com APIs.
 
-🚀 Busco sempre evoluir minhas habilidades, aplicando boas práticas de desenvolvimento e criando soluções eficientes e bem estruturadas.
+🌱 Atualmente estou aprofundando meus conhecimentos em **arquitetura de aplicações web, cloud e inteligência artificial aplicada a sistemas modernos**.
 
-🌱 Atualmente estou aprofundando meus conhecimentos em arquitetura de aplicações web, cloud e integração de inteligência artificial em sistemas modernos.
+🎓 Sou formado em **Ciências Biológicas**, mas encontrei na tecnologia uma grande paixão e venho construindo minha carreira como desenvolvedor.
 ______________________________________________________________________________________________________________________________________________________________________
 
-## 🚀 Tecnologias que utilizo
 
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenslourenco&layout=compact&theme=tokyonight"/>
-</p>
 
-<p align="center">
+# 📊 GitHub Stats
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rubenslourenco&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenslourenco&layout=compact&theme=tokyonight"/>
+______________________________________________________________________________________________________________________________________________________________________
+
+
+# 🚀 Tecnologias que utilizo
+
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -29,3 +34,9 @@ ________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </p>
 
+______________________________________________________________________________________________________________________________________________________________________
+
+
+# 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubenslourenco&theme=tokyonight" />
