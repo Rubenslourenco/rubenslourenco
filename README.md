@@ -13,7 +13,6 @@ ________________________________________________________________________________
 
 <p>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rubenslourenco&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenslourenco&layout=compact&theme=tokyonight"/>
 </p>
 ________________________________________________________________________________________________________________________________________________________
 
