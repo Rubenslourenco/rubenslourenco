@@ -10,8 +10,8 @@ Meu nome é Rubens Alves e sou Desenvolvedor Fullstack, atuando no desenvolvimen
 ______________________________________________________________________________________________________________________________________________________________________
 
  ## 🚀 Tecnologias que utilizo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenslourenco&layout=compact&theme=tokyonight)
-______________________________________________________________________________________________________________________________________________________________________
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenslourenco&layout=compact&theme=tokyonight)
+________________________________________________________________________________________________________________________________________________________
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
